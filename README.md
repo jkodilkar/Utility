@@ -7,6 +7,6 @@ Essential utility for personnel and commercial use
 e.g. If dir1 and dir2 have files a, b, c as given below
 dir1/a dir1/b dir1/c
 dir2/a dir2/c
-# to find out difference
+# to find out difference command line interface tool
 >cd dir1
 >dirdiff.sh ./dir2
